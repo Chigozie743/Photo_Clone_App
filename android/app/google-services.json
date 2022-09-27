@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764856076426",
+    "project_id": "photo-sharing-clone-app-4f28c",
+    "storage_bucket": "photo-sharing-clone-app-4f28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764856076426:android:d730c74bd79d88091ec573",
+        "android_client_info": {
+          "package_name": "chigozie.photo_sharing_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764856076426-dn7cips3k1g3de64lea9ob07a6aosai5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Tgb3D5V_2QTpDXr64lSX6NPpo67dKfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764856076426-dn7cips3k1g3de64lea9ob07a6aosai5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
